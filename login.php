@@ -6,7 +6,7 @@ $password = $_POST["password"];
 // Conectar a la base de datos (reemplaza estos valores con los tuyos)
 $servidor = "localhost:3308";
 $nombreUsuario = "enrique";
-$contrasenaBD = 'progra2H7*+';
+$contrasenaBD = 'progra2h7*+';
 $nombreBD = "software";
 
 $conn = new mysqli($servidor, $nombreUsuario, $contrasenaBD, $nombreBD);
