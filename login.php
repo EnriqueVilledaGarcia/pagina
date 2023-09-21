@@ -4,7 +4,7 @@ $usuario = $_POST["usuario"];
 $password = $_POST["password"];
 
 // Conectar a la base de datos (reemplaza estos valores con los tuyos)
-$servidor = "localhost:3308";
+$servidor = "3306";
 $nombreUsuario = "enrique";
 $contrasenaBD = 'progra2h7*+';
 $nombreBD = "software";
